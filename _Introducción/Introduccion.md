@@ -1,1 +1,0 @@
-Introducción al diplomado avanzado
