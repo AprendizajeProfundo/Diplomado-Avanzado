@@ -4,6 +4,9 @@ Este es un repositorio para aquellos interesados en adquirir conocimientos de al
 Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
 
 Sábados, 8-12m (hora de Colombia)
+
+## Coordinador
+- Campo Elías Pardo Turriago, cepardot@unal.edu.co
 ## Conferencistas 
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
 - Oleg Jarma Montoya, Estadístico, ojarmam@unal.edu.co 
