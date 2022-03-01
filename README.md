@@ -18,9 +18,9 @@ Sábados, 8-12m (hora de Colombia)
  - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 ## Introducción
  - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb)
- - Redes Neuronales- Básicos
+
  ## Redes Neuronales
- - Introducción
+ - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer]
  - Autoencoders
  ## Matemáticas y Estadística de la IA
  - Funciones - Optimización
