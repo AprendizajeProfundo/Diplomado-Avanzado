@@ -17,7 +17,7 @@ Sábados, 8-12m (hora de Colombia)
  - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co 
  - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 ## Introducción
- - La Inteligencia Artificial hoy
+ - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb)
  - Redes Neuronales- Básicos
  ## Redes Neuronales
  - Introducción
