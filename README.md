@@ -1,4 +1,4 @@
-# Diplomado Inteligencia Artificial y Aprendizaje Profundo - Avanzado
+# Diplomado IA y AP - Avanzado
 Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en inteligencia artificial y aprendizaje de máquinas para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
 ## Horarios 
 Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
