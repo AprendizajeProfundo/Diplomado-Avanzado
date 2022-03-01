@@ -20,7 +20,7 @@ Sábados, 8-12m (hora de Colombia)
  - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb)
 
  ## Redes Neuronales
- - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer]
+ - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb)
  - Autoencoders
  ## Matemáticas y Estadística de la IA
  - Funciones - Optimización
