@@ -20,7 +20,7 @@ Sábados, 8-12m (hora de Colombia)
  - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb)
 
  ## Redes Neuronales
- - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb)
+ - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer]
  - Autoencoders
  ## Matemáticas y Estadística de la IA
  - Optimización SGD [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb), [nbviwewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb)
