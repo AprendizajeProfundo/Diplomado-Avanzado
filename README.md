@@ -17,7 +17,7 @@ Sábados, 8-12m (hora de Colombia)
  - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co 
  - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 ## Introducción
- - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb)
+ - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Presentaciones/Estado_del_Arte-1.html#/)
 
  ## Redes Neuronales
  - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb)
