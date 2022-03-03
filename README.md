@@ -28,7 +28,7 @@ Sábados, 8-12m (hora de Colombia)
  - Probabilidad básica [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Prob_Conceptos_Basicos.ipynb)
  - Variables aleatorias [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Prob_Variables_Aleatorias.ipynb)
  - Estadística
- - Teoría de la Información
+ - Teoría de la Información [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/ti_Teoria_Informacion.ipynb)
  ## Programación
  - Introducción a Python
  - Colecciones
