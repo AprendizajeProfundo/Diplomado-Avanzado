@@ -24,7 +24,7 @@ Sábados, 8-12m (hora de Colombia)
  - Autoencoders
  ## Matemáticas y Estadística de la IA
  - Optimización SGD [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb)
- - Tensores [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb)
+ - Tensores [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb)
  - Probabilidad básica [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Prob_Conceptos_Basicos.ipynb)
  - Variables aleatorias [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Prob_Variables_Aleatorias.ipynb)
  - Estadística
