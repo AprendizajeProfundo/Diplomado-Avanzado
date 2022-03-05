@@ -30,10 +30,11 @@ Sábados, 8-12m (hora de Colombia)
  - Estadística
  - Teoría de la Información [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/ti_Teoria_Informacion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/ti_Teoria_Informacion.ipynb)
  ## Programación
- - Introducción a Python
- - Colecciones
- - Numpy
- - API Keras.data.Dataset
+ - Introducción a Python [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Intro_Python.ipynb). [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Intro_Python.ipynb)
+ - Colecciones [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Colecciones.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Colecciones.ipynb)
+ - Numpy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb)
+ - Pandas [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb)
+ - API Keras.data.Dataset [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb)
  - Modelos de Regresión y Clasificación en Pytorch
  ## Series de Tiempo
  - Introducción
