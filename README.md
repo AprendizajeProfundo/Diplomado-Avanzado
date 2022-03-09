@@ -36,11 +36,20 @@ Sábados, 8-12m (hora de Colombia)
  - Pandas [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb)
  - API Keras.data.Dataset [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb)
  - Modelos de Regresión y Clasificación en Pytorch
- ## Series de Tiempo
- - Introducción
- - Redes Recurrentes: LSTM-GRU
- - Aplicaciones: Ejemplos en Keras
- - Transformes para Series Espacio-Temporales
+ ## Redes Recurrentes - Series de Tiempo
+
+  - [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
+  - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
+  - [Introducción a redes LSTM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
+  - [Introducción a redes GRU](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
+  - [Aprendizaje profundo y series de tiempo ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
+  - [Predicción de la acción de Apple a un día](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout.ipynb)
+  - [Predicción de la acción de Apple a tres días](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout-.ipynb)
+  - [Predicción de todos valores en una ventana futura](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
+  - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+  - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
+  - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
+
  ## Web Scraping
  - Expresiones Regulares
  - Introducción a Web Scraping
