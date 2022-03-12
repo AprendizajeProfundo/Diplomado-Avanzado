@@ -52,7 +52,7 @@ Sábados, 8-12m (hora de Colombia)
  ## Web Scraping
  - Expresiones Regulares, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb)
  - Introducción a Web Scraping, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb)
- - Introducción a Selenium
+ - Introducción a Selenium, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
  - Taller de Web Scraping
  ## Visión Artificial
  - Redes Convolucionales: Convoluciones, Filtros, Pooling
