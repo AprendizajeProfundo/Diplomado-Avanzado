@@ -51,7 +51,7 @@ Sábados, 8-12m (hora de Colombia)
 
  ## Web Scraping
  - Expresiones Regulares
- - Introducción a Web Scraping
+ - Introducción a Web Scraping, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb)
  - Introducción a Selenium
  - Taller de Web Scraping
  ## Visión Artificial
