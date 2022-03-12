@@ -50,7 +50,7 @@ Sábados, 8-12m (hora de Colombia)
    - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
 
  ## Web Scraping
- - Expresiones Regulares
+ - Expresiones Regulares, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb)
  - Introducción a Web Scraping, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb)
  - Introducción a Selenium
  - Taller de Web Scraping
