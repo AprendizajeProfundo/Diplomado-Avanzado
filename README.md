@@ -35,7 +35,7 @@ Sábados, 8-12m (hora de Colombia)
  - Numpy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb)
  - Pandas [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb)
  - API Keras.data.Dataset [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb)
- - Modelos de Regresión y Clasificación en Pytorch
+ - Modelos de  Clasificación en Pytorch [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Pytorch_10_clasificacion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Pytorch_10_clasificacion.ipynb)
  ## Redes Recurrentes - Series de Tiempo
 
   - [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
