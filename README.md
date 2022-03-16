@@ -28,8 +28,7 @@ Sábados, 8-12m (hora de Colombia)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
 - Coloración de imágenes [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Autoencoder_Colorizing.ipynb)  ,[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
 - Ejemplo eliminación de ruido con datos MNIST [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb) ,[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
-  - [Reconstrucción de Rostros](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
-  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+- Autocodificador Convolucional para Eliminación de Ruido [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/Noise_Elimination_Conv.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
 
 
  ## Matemáticas y Estadística de la IA
