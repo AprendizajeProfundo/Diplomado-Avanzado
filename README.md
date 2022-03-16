@@ -21,7 +21,18 @@ Sábados, 8-12m (hora de Colombia)
 
  ## Redes Neuronales
  - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
- - Autoencoders
+ 
+## Autocodificadores
+Introducción a Autocodificadores. Ejemplo MNIST Denso [Github](ttps://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Example_Dense_mnist.ipynb), [nbviewer]
+(https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
+  - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
+[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
+  - [Coloración de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
+  - [Reconstrucción de Rostros](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
+  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+
+
  ## Matemáticas y Estadística de la IA
  - Optimización SGD [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb)
  - Tensores [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb)
