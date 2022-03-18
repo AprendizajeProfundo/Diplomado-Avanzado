@@ -64,7 +64,7 @@ Sábados, 8-12m (hora de Colombia)
  - Introducción a Selenium, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
  - Taller de Web Scraping
  ## Visión Artificial
- - Redes Convolucionales: Convoluciones, Filtros, Pooling
+ - Redes Convolucionales: Convoluciones, Filtros, Pooling [Github]()
  - Ejemplo Mnist-Fashion
  - Ejemplo Cifar
  - Introducción a OpenCV
