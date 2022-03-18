@@ -64,10 +64,11 @@ Sábados, 8-12m (hora de Colombia)
  - Introducción a Selenium, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
  - Taller de Web Scraping
  ## Visión Artificial
- - Redes Convolucionales: Convoluciones, Filtros, Pooling [Github]()
+ - Sesión Inaugural [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/sesion_inaugural.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/sesion_inaugural.ipynb)
+ - Redes Convolucionales: Convoluciones, Filtros, Pooling [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/Convolucion_definicion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/Convolucion_definicion.ipynb)
  - Ejemplo Mnist-Fashion
  - Ejemplo Cifar
- - Introducción a OpenCV
+ - Introducción a OpenCV [github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/intro_opencv.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/intro_opencv.ipynb)
  - Detección Facial con OpenCV
  - Alexnet, VGG16, Inception, R-CNN, fast R-CNN
  - Detección Facial CNN
