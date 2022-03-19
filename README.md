@@ -78,7 +78,7 @@ Sábados, 8-12m (hora de Colombia)
  - YOLO: Detección de objetos
  - PoseNet: Reconocimiento de poses
  ## Tratamiento de Lenguaje Natural (PLN)
- - Conceptos Básicos de PLN
+ - Conceptos Básicos de PLN, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Introduccion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Introduccion.ipynb)
  - Modelo LDA
  - Embeddings: seq2seq, Glove, FastText
  - Ejemplo de Embeddings: Clasificación
