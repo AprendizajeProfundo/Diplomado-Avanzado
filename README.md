@@ -66,8 +66,8 @@ Sábados, 8-12m (hora de Colombia)
  ## Visión Artificial
  - Sesión Inaugural [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/sesion_inaugural.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/sesion_inaugural.ipynb)
  - Redes Convolucionales: Convoluciones, Filtros, Pooling [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/Convolucion_definicion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/Convolucion_definicion.ipynb)
- - Ejemplo Mnist-Fashion
- - Ejemplo Cifar
+ - Ejemplo Mnist-Fashion [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visión%20Artificial/Cuadernos/taller_ejemplo_mnist.ipynb)
+ - Ejemplo Cifar [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visión%20Artificial/Cuadernos/TallerCifar.ipynb)
  - Introducción a OpenCV [github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/intro_opencv.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/intro_opencv.ipynb)
  - Detección Facial con OpenCV
  - Alexnet, VGG16, Inception, R-CNN, fast R-CNN
