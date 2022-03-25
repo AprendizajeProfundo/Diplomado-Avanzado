@@ -81,10 +81,10 @@ Sábados, 8-12m (hora de Colombia)
  ## Tratamiento de Lenguaje Natural (PLN)
  - Conceptos Básicos de PLN, Modelo LDA [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Introduccion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Introduccion.ipynb)
  - Embeddings: 
-  - seq2seq [](), []()
-  - Word2Vec, Glove [](), []()
-  - Word2Vec Paso a Paso [](), []()
-  - FastText [](), []()
+  - seq2seq [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_seq2seq_traductor.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_seq2seq_traductor.ipynb)
+  - Word2Vec, Glove [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Clustering_docs.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Clustering_docs.ipynb)
+  - Word2Vec Paso a Paso [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_word2vec.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_word2vec.ipynb)
+  - FastText [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_FastText_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_FastText_Intro.ipynb)
  - Ejemplo de Embeddings: Clasificación
  - Modelos Atencionales
  - Modelos Autoatencionales
