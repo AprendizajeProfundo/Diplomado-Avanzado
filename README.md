@@ -80,7 +80,11 @@ Sábados, 8-12m (hora de Colombia)
  - PoseNet: Reconocimiento de poses
  ## Tratamiento de Lenguaje Natural (PLN)
  - Conceptos Básicos de PLN, Modelo LDA [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Introduccion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Introduccion.ipynb)
- - Embeddings: seq2seq, Glove, FastText
+ - Embeddings: 
+  - seq2seq [](), []()
+  - Word2Vec, Glove [](), []()
+  - Word2Vec Paso a Paso [](), []()
+  - FastText [](), []()
  - Ejemplo de Embeddings: Clasificación
  - Modelos Atencionales
  - Modelos Autoatencionales
