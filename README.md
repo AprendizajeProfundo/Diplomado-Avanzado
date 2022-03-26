@@ -85,7 +85,7 @@ Sábados, 8-12m (hora de Colombia)
      - Word2Vec, Glove [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Clustering_docs.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Clustering_docs.ipynb)
      - Word2Vec Paso a Paso [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_word2vec.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_word2vec.ipynb)
      - FastText [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_FastText_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_FastText_Intro.ipynb)
- - Ejemplo de Embeddings: Clasificación
+ - Ejemplo de Embeddings: Clasificación de Textos [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Practica.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Practica.ipynb)
  - Modelos Atencionales
  - Modelos Autoatencionales
  - Transformes-Introducción
