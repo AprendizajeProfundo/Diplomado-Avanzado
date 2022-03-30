@@ -73,7 +73,7 @@ Sábados, 8-12m (hora de Colombia)
  - Detección Facial con OpenCV [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/rostros_opencv.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/rostros_opencv.ipynb)
  - Alexnet, VGG16, Inception, R-CNN, fast R-CNN
  - Detección Facial CNN
- - Redes Residuales - Resnet - Normalización por lotes
+ - Redes Residuales - Resnet - Normalización por lotes [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb)
  - Taller transfer-learning en VI: Papel, tijera-piedra, caballo humanos
  - Tratamiento de audios
  - YOLO: Detección de objetos
