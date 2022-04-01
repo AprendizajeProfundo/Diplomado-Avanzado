@@ -90,7 +90,7 @@ Sábados, 8-12m (hora de Colombia)
  - Taller Ilustrado de Modelos Atencionales [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb)
  - Taller Ilustrado de Modelos Auto-atencionales [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb) 
  - Transformers-Introducción
- - Taller Transformer chat-bot
+ - Taller Transformer chat-bot [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb)
  - Taller Transformer traductor
  - Modelos BERT - Introducción
  - BERT pipeline-tarea PLN
