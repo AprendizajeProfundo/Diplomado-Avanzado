@@ -58,7 +58,8 @@ Sábados, 8-12m (hora de Colombia)
   - [Predicción de todos valores en una ventana futura](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
   - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
    - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
-   - Ttutorial Pytorch-forecasting [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Series%20de%20Tiempo/Cuadernos/Pytorch_forecasting.ipynb)
+   - Temporal Fusion Transformer [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Series%20de%20Tiempo/Cuadernos/Temporal_Fusion_Transformer.ipynb)
+   - Tutorial Pytorch-forecasting [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Series%20de%20Tiempo/Cuadernos/Pytorch_forecasting.ipynb)
 
  ## Web Scraping
  - Expresiones Regulares, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb)
