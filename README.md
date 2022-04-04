@@ -108,6 +108,7 @@ Sábados, 8-12m (hora de Colombia)
  - Segmentación Semántica. Generación de Imágenes Artificiales
  ## Aprendizaje Reforzado
  - Aprendizaje-Reforzado (AR) - introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)  , [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
+ - Ejemplo de un Agente Simple [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Agente_simple.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Agente_simple.ipynb)
  - Bandido Multibrazo
  - OpenAI-Gym
  - Q-learning-ecuación de Bellman
