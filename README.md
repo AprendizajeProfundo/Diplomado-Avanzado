@@ -95,9 +95,10 @@ Sábados, 8-12m (hora de Colombia)
  - Transformers-Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Transformers-TF2.ipynb), [nbviewer]()
  - Taller Transformer chat-bot [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb)
  - Taller Transformer traductor
- - Modelos BERT - Introducción
+ - Modelos BERT - Introducción [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_BERT_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_BERT_Intro.ipynb)
+ - MOdelos BERT - Español [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_HuggingFace_06_BERT_pretraining_sp.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_HuggingFace_06_BERT_pretraining_sp.ipynb)
  - BERT pipeline-tarea PLN
- - Hugging Face: Introducción, BERT-sentence
+ - Hugging Face: Introducción, Sentence-BERT
  - Hugging Face: Ajuste Fino de Modelos
  - Hugging-Face. Modelos-tokenizadores-datasets
  - Taller Modelos BERT y Variables Categóricas
