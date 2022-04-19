@@ -79,7 +79,7 @@ Sábados, 8-12m (hora de Colombia)
  - Detección Facial CNN
  - Redes Residuales - Resnet - Normalización por lotes [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb)
  - Taller transfer-learning en VI: Papel, tijera-piedra, caballo humanos
- - Tratamiento de audios
+ - Tratamiento de audios [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/tratamiento_audios.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/tratamiento_audios.ipynb)
  - YOLO: Detección de objetos
  - PoseNet: Reconocimiento de poses
  ## Tratamiento de Lenguaje Natural (PLN)
