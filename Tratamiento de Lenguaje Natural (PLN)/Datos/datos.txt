@@ -1,0 +1,1 @@
+Aquí algunos dataset del GLUE. Como el conjunto de datos es muy grande, recomendamos al usuario ir a las páginas correspondientes a buscarlos, o utlizar alguna API de tensorflow, por ejemplo, para obtenerlos.
