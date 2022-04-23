@@ -105,7 +105,7 @@ Sábados, 8-12m (hora de Colombia)
  - Taller Modelos BERT y Variables Categóricas
  - Tareas NLP. Generación de texto GPT, Blender
  ## Redes Generativas Adversarias (GAN's)
- - Introducción
+ - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_generativas_adversarias.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_generativas_adversarias.ipynb)
  - GAN's Condicionales
  - Segmentación Semántica. Generación de Imágenes Artificiales
  ## Aprendizaje Reforzado
