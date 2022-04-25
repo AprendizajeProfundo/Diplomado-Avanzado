@@ -80,7 +80,8 @@ Sábados, 8-12m (hora de Colombia)
  - Redes Residuales - Resnet - Normalización por lotes [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/redes_residuales.ipynb)
  - Taller transfer-learning en VI: Papel, tijera-piedra, caballo humanos
  - Tratamiento de audios [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/tratamiento_audios.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/tratamiento_audios.ipynb)
- - YOLO: Detección de objetos
+ - You Only Look Once [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/yolo.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/yolo.ipynb)
+ - Single Shot Detector [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/single_shot_detector.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Visi%C3%B3n%20Artificial/Cuadernos/single_shot_detector.ipynb)
  - PoseNet: Reconocimiento de poses
  ## Tratamiento de Lenguaje Natural (PLN)
  - Conceptos Básicos de PLN, Modelo LDA [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_Introduccion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_Introduccion.ipynb)
