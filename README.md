@@ -102,7 +102,7 @@ Sábados, 8-12m (hora de Colombia)
  - Hugging Face: Introducción [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
  - Variaciones de BERT, Sentence-BERT [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_BERT_GLUE_variaciones.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_BERT_GLUE_variaciones.ipynb)
  - Hugging Face: Ajuste Fino de Modelos, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_BERT_fine_tuning.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_BERT_fine_tuning.ipynb)
- - Hugging-Face. Modelos-tokenizadores-datasets
+ - Hugging-Face. Modelos-tokenizadores-datasets [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/nlp_tokenizadores_datasets.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/nlp_tokenizadores_datasets.ipynb)
  - Taller Modelos BERT y Variables Categóricas
  - Tareas NLP. Generación de texto GPT, Blender
  ## Redes Generativas Adversarias (GAN's)
