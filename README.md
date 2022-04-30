@@ -118,11 +118,9 @@ Sábados, 8-12m (hora de Colombia)
  - Ambiente FrozenLake [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_OpenAI_Gym_Frozen_Lake.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_OpenAI_Gym_Frozen_Lake.ipynb)
  - Método de entropía cruzada - Introdución [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Metodo_Entropia_Cruzada_Introducci%C3%B3n.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Metodo_Entropia_Cruzada_Introducci%C3%B3n.ipynb)
  - Método de entropía cruzada - Implementación [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Metodo_Entropia_Cruzada_implementacion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Metodo_Entropia_Cruzada_implementacion.ipynb)
- - Q-learning-ecuación de Bellman
- - Deep Q learning
- - Métodos basados en Políticas
- - Método Actor-Crítico
- - Portafolios Dinámicos basados en AR
+ - Q-learning-ecuación de Bellman [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
+ - Qlearning-FrozenLake [Github](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
+ - Deep Q-Learning [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb)
  - Chatbot basado en AR
  ## Recursos :pushpin:
 - [Binder](https://mybinder.org/)
