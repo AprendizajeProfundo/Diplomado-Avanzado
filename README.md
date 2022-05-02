@@ -121,7 +121,7 @@ Sábados, 8-12m (hora de Colombia)
  - Q-learning-ecuación de Bellman [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
  - Qlearning-FrozenLake [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Q_Learning-02.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
  - Deep Q-Learning [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb)
- - Deep Q_learning - Pong [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-Pong.ipynb). [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-Pong.ipynb)
+ - Deep Q_learning - Pong [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb). [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb)
  - Chatbot basado en AR
  ## Recursos :pushpin:
 - [Binder](https://mybinder.org/)
