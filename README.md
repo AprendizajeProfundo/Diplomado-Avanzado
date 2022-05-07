@@ -123,6 +123,9 @@ Sábados, 8-12m (hora de Colombia)
  - Qlearning-FrozenLake [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Q_Learning-02.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
  - Deep Q-Learning [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-02.ipynb)
  - Deep Q_learning - Pong [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-Pong-ver_02.ipynb). [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning-Pong-ver_02.ipynb)
+ - Bot financiero - Modelo Dueling DQN [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_trading.ipynb)
+ - Metodos basados en el gradiente de la política - Reinforcement [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Gradientes_Politica.ipynb)
+ - Método Actor-crítico [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Actor_Critico.ipynb)
  - Chatbot basado en AR
  ## Recursos :pushpin:
 - [Binder](https://mybinder.org/)
