@@ -125,7 +125,7 @@ Sábados, 8-12m (hora de Colombia)
  - Bot financiero - Modelo Dueling DQN [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_trading.ipynb)
  - Metodos basados en el gradiente de la política - Reinforcement [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Gradientes_Politica.ipynb)
  - Método Actor-crítico [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_Actor_Critico.ipynb)
- - Chatbot basado en AR
+ - Chatbot basado en AR [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_chat_bots.ipynb)
  ## Recursos :pushpin:
 - [Binder](https://mybinder.org/)
 - [nbviewer](https://nbviewer.jupyter.org/)
